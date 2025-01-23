@@ -1,7 +1,7 @@
 $(document).ready(function(){
-    var accesskey="aHJRR1pEX29OR2VPSDg2RW5fdlM=";
-    var secretkey="a1ZnNEZMckY2SlFDd1U4eVVpMF9NbEdzR2V0X0J0VC1xZw==";
-    var deviceid="ramyashree_IoT_device";
+    var accessKey="T2UzUC05Mi1qRTNUejZjYTNSMzk=";
+    var secretKey = "UlZERHN5blYyYV91eVd5bEhfSmQ2ckI5LXUyc19neVhLQQ==";
+    var deviceId = "dony01_IoT_device";
     var outputTemp = document.getElementById("output");
 
 function startWeatherStation(){
